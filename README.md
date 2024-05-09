@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>RixoApps</title>
+<title></title>
 </head>
 <body>
 
