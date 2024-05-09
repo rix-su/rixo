@@ -7,7 +7,7 @@
 
 <h1>RixoApps /FOSS/</h1>
 
-<>Free.Open.Space.Sauce.</p>
+<p>Free.Open.Space.Sauce.</p>
 
 <p>May 09,2024 xoxo<3 </p>
 
